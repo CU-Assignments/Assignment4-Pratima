@@ -1,15 +1,16 @@
-# Assignment3-Pratima
+# Assignment4-Pratima
 
 Instructions: Create a PDF file that includes the code snippet along with screenshots of the submission.
 
-Linked Lists:
-1. Print Linked List: https://www.geeksforgeeks.org/problems/print-linked-list-elements/0
-2. Remove duplicates from a sorted list: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
-3. Reverse a linked list: https://leetcode.com/problems/reverse-linked-list/description/
-4. Delete middle node of a list: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
-5. Merge two sorted linked lists: https://leetcode.com/problems/merge-two-sorted-lists/description/
-6. Detect a cycle in a linked list: https://leetcode.com/problems/linked-list-cycle/description/
-7. Rotate a list: https://leetcode.com/problems/rotate-list/description/
-8. Sort List: https://leetcode.com/problems/sort-list/description/
-9. Merge k sorted lists: https://leetcode.com/problems/merge-k-sorted-lists/description/
+Divide and Conquer:
+1. Longest Nice Substring: https://leetcode.com/problems/longest-nice-substring/description/
+2. Reverse Bits: https://leetcode.com/problems/reverse-bits/description/
+3. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/description/
+4. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/description/
+5. Search a 2D Matrix II: https://leetcode.com/problems/search-a-2d-matrix-ii/description/
+6. Super Pow: https://leetcode.com/problems/super-pow/description/
+7. Beautiful Array: https://leetcode.com/problems/beautiful-array/description/
+8. The Skyline Problem: https://leetcode.com/problems/the-skyline-problem/description/
+9. Reverse Pairs: https://leetcode.com/problems/reverse-pairs/description/
+10. Longest Increasing Subsequence II: https://leetcode.com/problems/longest-increasing-subsequence-ii/description/
  
